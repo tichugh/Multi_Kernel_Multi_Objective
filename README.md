@@ -1,4 +1,4 @@
-%% This is the function to train a GP using composite kernel.
+%% This is the code to use multi-kernel with multiobjective optimization
 
 The copyrights are with Tinkle Chugh, t.chugh@exeter.ac.uk
 
